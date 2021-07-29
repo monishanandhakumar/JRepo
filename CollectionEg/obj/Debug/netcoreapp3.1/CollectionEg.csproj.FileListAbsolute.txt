@@ -1,0 +1,13 @@
+C:\OnlineTraining\LTI\July21\CSharp\Day2\PrjSecondApplication\CollectionEg\obj\Debug\netcoreapp3.1\CollectionEg.csprojAssemblyReference.cache
+C:\OnlineTraining\LTI\July21\CSharp\Day2\PrjSecondApplication\CollectionEg\obj\Debug\netcoreapp3.1\CollectionEg.AssemblyInfoInputs.cache
+C:\OnlineTraining\LTI\July21\CSharp\Day2\PrjSecondApplication\CollectionEg\obj\Debug\netcoreapp3.1\CollectionEg.AssemblyInfo.cs
+C:\OnlineTraining\LTI\July21\CSharp\Day2\PrjSecondApplication\CollectionEg\obj\Debug\netcoreapp3.1\CollectionEg.csproj.CoreCompileInputs.cache
+C:\OnlineTraining\LTI\July21\CSharp\Day2\PrjSecondApplication\CollectionEg\bin\Debug\netcoreapp3.1\CollectionEg.exe
+C:\OnlineTraining\LTI\July21\CSharp\Day2\PrjSecondApplication\CollectionEg\bin\Debug\netcoreapp3.1\CollectionEg.deps.json
+C:\OnlineTraining\LTI\July21\CSharp\Day2\PrjSecondApplication\CollectionEg\bin\Debug\netcoreapp3.1\CollectionEg.runtimeconfig.json
+C:\OnlineTraining\LTI\July21\CSharp\Day2\PrjSecondApplication\CollectionEg\bin\Debug\netcoreapp3.1\CollectionEg.runtimeconfig.dev.json
+C:\OnlineTraining\LTI\July21\CSharp\Day2\PrjSecondApplication\CollectionEg\bin\Debug\netcoreapp3.1\CollectionEg.dll
+C:\OnlineTraining\LTI\July21\CSharp\Day2\PrjSecondApplication\CollectionEg\bin\Debug\netcoreapp3.1\CollectionEg.pdb
+C:\OnlineTraining\LTI\July21\CSharp\Day2\PrjSecondApplication\CollectionEg\obj\Debug\netcoreapp3.1\CollectionEg.dll
+C:\OnlineTraining\LTI\July21\CSharp\Day2\PrjSecondApplication\CollectionEg\obj\Debug\netcoreapp3.1\CollectionEg.pdb
+C:\OnlineTraining\LTI\July21\CSharp\Day2\PrjSecondApplication\CollectionEg\obj\Debug\netcoreapp3.1\CollectionEg.genruntimeconfig.cache
